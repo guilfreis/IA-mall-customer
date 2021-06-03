@@ -1,4 +1,3 @@
-
 # make a prediction with a ridge regression model on the dataset
 from pandas import read_csv
 from sklearn.linear_model import Ridge
