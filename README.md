@@ -3,7 +3,7 @@ This repo contains code used on final project for Artifical Inteligency class fo
 
 # Running
 
-Execute those files are straight forward if you have python and dependencies installed.
+Execute those files. This should be straight forward if you have python and dependencies installed.
 
 ```
 python3 k-means.py
